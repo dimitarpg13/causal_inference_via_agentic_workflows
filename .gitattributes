@@ -3,3 +3,4 @@ literature/Counterfactual_reasoning_in_LLMs/Counterfactual_reasoning-an_analysis
 literature/Counterfactual_reasoning_in_LLMs/LLMs_cant_jump_Zahavy_2026.pdf filter=lfs diff=lfs merge=lfs -text
 literature/N-Person-Games/NotesOnNPersonGame_RM670_Shapley.pdf filter=lfs diff=lfs merge=lfs -text
 literature/N-Person-Games/Notes_on_the_N-Person_Game_part_I_Characteristic-Point_Solutions_of_the_Four-Person_Game_Shapley_1951.pdf filter=lfs diff=lfs merge=lfs -text
+literature/N-Person-Games/Game_Theory_in_Economics-Characteristic_Function_Core_and_Stable_Set_Shapley_1973.pdf filter=lfs diff=lfs merge=lfs -text
